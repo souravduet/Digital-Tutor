@@ -1,0 +1,82 @@
+G:\MY project\VC#.NET\FormulaPedia\Upgraded\FormulaPedia\FormulaPedia\bin\Debug\FormulaPedia.exe
+G:\MY project\VC#.NET\FormulaPedia\Upgraded\FormulaPedia\FormulaPedia\bin\Debug\FormulaPedia.pdb
+G:\MY project\VC#.NET\FormulaPedia\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\ResolveAssemblyReference.cache
+G:\MY project\VC#.NET\FormulaPedia\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.Properties.Resources.resources
+G:\MY project\VC#.NET\FormulaPedia\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.csproj.GenerateResource.Cache
+G:\MY project\VC#.NET\FormulaPedia\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.exe
+G:\MY project\VC#.NET\FormulaPedia\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.pdb
+G:\MY project\VC#.NET\FormulaPedia\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.MainForm.resources
+G:\MY project\VC#.NET\FormulaPedia\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.mathForm.resources
+G:\MY project\VC#.NET\FormulaPedia\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.conversionForm.resources
+I:\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.exe
+I:\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.pdb
+I:\Upgraded\FormulaPedia\FormulaPedia\bin\Debug\FormulaPedia.exe
+I:\Upgraded\FormulaPedia\FormulaPedia\bin\Debug\FormulaPedia.pdb
+I:\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\ResolveAssemblyReference.cache
+I:\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.conversionForm.resources
+I:\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.MainForm.resources
+I:\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.mathForm.resources
+I:\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.Properties.Resources.resources
+I:\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.csproj.GenerateResource.Cache
+I:\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.SplashScreenForm.resources
+C:\Users\jahid\Desktop\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.exe
+C:\Users\jahid\Desktop\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.pdb
+C:\Users\jahid\Desktop\Upgraded\FormulaPedia\FormulaPedia\bin\Debug\FormulaPedia.exe
+C:\Users\jahid\Desktop\Upgraded\FormulaPedia\FormulaPedia\bin\Debug\FormulaPedia.pdb
+C:\Users\jahid\Desktop\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jahid\Desktop\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.conversionForm.resources
+C:\Users\jahid\Desktop\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.MainForm.resources
+C:\Users\jahid\Desktop\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.mathForm.resources
+C:\Users\jahid\Desktop\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.Properties.Resources.resources
+C:\Users\jahid\Desktop\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.SplashScreenForm.resources
+C:\Users\jahid\Desktop\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.csproj.GenerateResource.Cache
+E:\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.exe
+E:\Upgraded\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.pdb
+E:\Project & Program\Project\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.exe
+E:\Project & Program\Project\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.pdb
+E:\Sourav_Personal(Don't access it)\Project & Program\Project\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.exe
+E:\Sourav_Personal(Don't access it)\Project & Program\Project\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.pdb
+E:\Sourav_Personal(Don't access it)\Project & Program\Project\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\bin\Debug\FormulaPedia.exe
+E:\Sourav_Personal(Don't access it)\Project & Program\Project\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\bin\Debug\FormulaPedia.pdb
+E:\Sourav_Personal(Don't access it)\Project & Program\Project\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\ResolveAssemblyReference.cache
+E:\Sourav_Personal(Don't access it)\Project & Program\Project\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.conversionForm.resources
+E:\Sourav_Personal(Don't access it)\Project & Program\Project\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.MainForm.resources
+E:\Sourav_Personal(Don't access it)\Project & Program\Project\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.mathForm.resources
+E:\Sourav_Personal(Don't access it)\Project & Program\Project\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.Properties.Resources.resources
+E:\Sourav_Personal(Don't access it)\Project & Program\Project\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.SplashScreenForm.resources
+E:\Sourav_Personal(Don't access it)\Project & Program\Project\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Sourav_Personal(Don't access it)\Project & Program\Project\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MIR\Desktop\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.exe
+C:\Users\MIR\Desktop\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.pdb
+C:\Users\MIR\Desktop\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\bin\Debug\FormulaPedia.exe
+C:\Users\MIR\Desktop\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\bin\Debug\FormulaPedia.pdb
+C:\Users\MIR\Desktop\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.csprojResolveAssemblyReference.cache
+C:\Users\MIR\Desktop\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.conversionForm.resources
+C:\Users\MIR\Desktop\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.MainForm.resources
+C:\Users\MIR\Desktop\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.mathForm.resources
+C:\Users\MIR\Desktop\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.Properties.Resources.resources
+C:\Users\MIR\Desktop\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.SplashScreenForm.resources
+C:\Users\MIR\Desktop\Upgraded_FormulaPedia\FormulaPedia\FormulaPedia\obj\Debug\FormulaPedia.csproj.GenerateResource.Cache
+C:\Users\MIR\Desktop\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.exe
+C:\Users\MIR\Desktop\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.pdb
+C:\Users\MIR\Desktop\Digital Tutor\Digital Tutor\FormulaPedia\bin\Debug\FormulaPedia.exe
+C:\Users\MIR\Desktop\Digital Tutor\Digital Tutor\FormulaPedia\bin\Debug\FormulaPedia.pdb
+C:\Users\MIR\Desktop\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.csprojResolveAssemblyReference.cache
+C:\Users\MIR\Desktop\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.conversionForm.resources
+C:\Users\MIR\Desktop\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.MainForm.resources
+C:\Users\MIR\Desktop\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.mathForm.resources
+C:\Users\MIR\Desktop\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.Properties.Resources.resources
+C:\Users\MIR\Desktop\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.SplashScreenForm.resources
+C:\Users\MIR\Desktop\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.csproj.GenerateResource.Cache
+E:\Sourav_Personal(Don't access it)\Project & Program\Digital Tutor\Digital Tutor\FormulaPedia\bin\Debug\FormulaPedia.exe.config
+E:\Sourav_Personal(Don't access it)\Project & Program\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.exe
+E:\Sourav_Personal(Don't access it)\Project & Program\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.pdb
+E:\Sourav_Personal(Don't access it)\Project & Program\Digital Tutor\Digital Tutor\FormulaPedia\bin\Debug\FormulaPedia.exe
+E:\Sourav_Personal(Don't access it)\Project & Program\Digital Tutor\Digital Tutor\FormulaPedia\bin\Debug\FormulaPedia.pdb
+E:\Sourav_Personal(Don't access it)\Project & Program\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.csprojResolveAssemblyReference.cache
+E:\Sourav_Personal(Don't access it)\Project & Program\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.conversionForm.resources
+E:\Sourav_Personal(Don't access it)\Project & Program\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.MainForm.resources
+E:\Sourav_Personal(Don't access it)\Project & Program\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.mathForm.resources
+E:\Sourav_Personal(Don't access it)\Project & Program\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.Properties.Resources.resources
+E:\Sourav_Personal(Don't access it)\Project & Program\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.SplashScreenForm.resources
+E:\Sourav_Personal(Don't access it)\Project & Program\Digital Tutor\Digital Tutor\FormulaPedia\obj\Debug\FormulaPedia.csproj.GenerateResource.Cache
